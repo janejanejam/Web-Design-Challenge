@@ -36,6 +36,9 @@ The website consists of 7 pages total, including:
 * Provides two more links on the right: "Comparisons" which links to the comparisons page, and "Data" which links to the data page
 * Responsive for different devices using media queries
 
+## Website Link
+https://janejanejam.github.io/Web-Design-Challenge/index.html
+
 ## Sample Screenshots
 
 ### Index Page
