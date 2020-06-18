@@ -21,11 +21,11 @@ The website consists of 7 pages total, including:
     * The plot/visualization itself for the selected comparison
     * A paragraph describing the plot and its significance
 
-<strong>"Comparisons" page:</strong> <br>
+<strong>Comparisons page:</strong> <br>
 * Contains all of the visualizations on the same page
 * Uses a bootstrap grid for the visualizations
 
-<strong>"Data" page:</strong> <br>
+<strong>Data page:</strong> <br>
 * Display a responsive table containing the data used in the visualizations
 * The table must be a bootstrap table component and converted into HTML
 
